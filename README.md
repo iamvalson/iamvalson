@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a passionate frontend and mobile and desktop application developer with a strong focus on building real-world solutions using React, React Native, Electron and Python.<br><br>I enjoy crafting seamless user experiences, building tools for developers, and exploring how AI can be used to enhance everyday applications.<br><br>- 🔭 I currently study Computer Science at the University of Lagos<br>- 📚 I'm currently learning AI/ML application into solvong real-world problems <br>- ⚡ In my free time I brainstorm on new project ideas with friends</p>
+<p align="left">I'm a passionate frontend, mobile and desktop application developer with a strong focus on building real-world solutions using React, React Native, Electron and Python.<br><br>I enjoy crafting seamless user experiences, building tools for developers, and exploring how AI can be used to enhance everyday applications.<br><br>- 🔭 I currently study Computer Science at the University of Lagos<br>- 📚 I'm currently learning AI/ML application into solvong real-world problems <br>- ⚡ In my free time I brainstorm on new project ideas with friends</p>
 
 ###
 
